@@ -3,7 +3,7 @@
 - title: A comparison of various steel-string acoustic guitars’ modal response with
     relation to typical playing styles
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -11,7 +11,7 @@
 - title: A COMPARISON OF MODAL PARAMETER EXTRACTION METHODS WHEN APPLIED TO MEASUREMENTS
     OF STRINGED INSTRUMENTS
   publisher: measurements
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -19,7 +19,7 @@
 - title: Analyzing physical impacts using transient surface wave imaging
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -27,42 +27,42 @@
 - title: 'Realimpact: A dataset of impact sound fields for real objects'
   publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
     Recognition
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'Sound synthesis of geometric and material changes in archtop guitars: towards
     the timbral design of musical instruments'
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Vibration and Acoustic Measurements of Guitars with Applications to Luthiery
     Synthesis and Audio Effects
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Augmenting a single-point laser doppler vibrometer to perform scanning measurements
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'Diffimpact: Differentiable rendering and identification of impact sounds'
   publisher: Conference on Robot Learning
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Modeling and correction of piezoelectric string instrument pickups
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -70,7 +70,7 @@
 - title: 'Electric-to-acoustic pickup processing for string instruments: An experimental
     study of the guitar with a hexaphonic pickup'
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -78,21 +78,21 @@
 - title: Measurements and analysis of acoustic guitars during various stages of their
     construction
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: String instrument acoustic transfer processing
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Water bottle synthesis with modal signal processing
   publisher: Int. Conf. Digital Audio Effects (DAFx)
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -100,7 +100,7 @@
 - title: A comparison of nonlinear modal synthesis using a time varying linear approximation
     and direct computation
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -108,21 +108,21 @@
 - title: Improved carillon synthesis
   publisher: Proceedings of the 22nd international conference on digital audio effects,
     Birmingham, UK
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: MEASUREMENTS OF ACOUSTIC GUITAR TOP PLATES DURING THE VOICING PROCESS
   publisher: 26th International Congress on Sound and Vibration
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Measurement and modeling of a resonator guitar
   publisher: Proceedings of the ISMA
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -131,35 +131,35 @@
     architecture
   publisher: Proceedings of the International Conference of Digital Audio Effects,
     Aveiro, Portugal
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: String synthesis using individually modeled termination scattering filters
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: An exploration of guitar neck admittance measurements taken at different
     string stopping locations
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: An “Infinite” Sustain Effect Designed for Live Guitar Performance
   publisher: Audio Engineering Society Convention 143
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Blind estimation of the reverberation fingerprint of unknown acoustic environments
   publisher: Audio Engineering Society Convention 143
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -167,21 +167,21 @@
 - title: Interpolation and Display of Microphone Directivity Measurements Using Higher
     Order Spherical Harmonics
   publisher: Audio Engineering Society Convention 143
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Physical model of a drum using an edge-diffraction approach
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Towards robust tracking with an unreliable motion sensor using machine learning.
   publisher: NIME
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
@@ -189,27 +189,27 @@
 - title: An Evaluation of Two Microphone Techniques for Bleed Reduction Using Independent
     Component Analysis
   publisher: Audio Engineering Society Convention 141
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Investigating the effect of body geometry on the acoustics of electric guitars
   publisher: Journal of the Acoustical Society of America
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'Analyzing Physical Impacts using Transient Surface Wave Imaging: Supplementary
     Materials'
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Bridging the Information Gap
-  date: '2024-11-03'
+  date: '2024-11-04'
   orcid: 0009-0007-1557-3628
   mark-rau: true
   plugin: orcid.py
