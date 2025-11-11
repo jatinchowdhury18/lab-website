@@ -1,264 +1,530 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+- title: A comparison of various steel-string acoustic guitars’ modal response with
+    relation to typical playing styles
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+- title: A COMPARISON OF MODAL PARAMETER EXTRACTION METHODS WHEN APPLIED TO MEASUREMENTS
+    OF STRINGED INSTRUMENTS
+  publisher: measurements
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+- title: Analyzing physical impacts using transient surface wave imaging
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+- title: 'Realimpact: A dataset of impact sound fields for real objects'
+  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+    Recognition
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+- title: 'Sound synthesis of geometric and material changes in archtop guitars: towards
+    the timbral design of musical instruments'
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+- title: Vibration and Acoustic Measurements of Guitars with Applications to Luthiery
+    Synthesis and Audio Effects
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+- title: Augmenting a single-point laser doppler vibrometer to perform scanning measurements
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+- title: 'Diffimpact: Differentiable rendering and identification of impact sounds'
+  publisher: Conference on Robot Learning
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- title: Modeling and correction of piezoelectric string instrument pickups
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Electric-to-acoustic pickup processing for string instruments: An experimental
+    study of the guitar with a hexaphonic pickup'
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Measurements and analysis of acoustic guitars during various stages of their
+    construction
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: String instrument acoustic transfer processing
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Water bottle synthesis with modal signal processing
+  publisher: Int. Conf. Digital Audio Effects (DAFx)
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: A comparison of nonlinear modal synthesis using a time varying linear approximation
+    and direct computation
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Improved carillon synthesis
+  publisher: Proceedings of the 22nd international conference on digital audio effects,
+    Birmingham, UK
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: MEASUREMENTS OF ACOUSTIC GUITAR TOP PLATES DURING THE VOICING PROCESS
+  publisher: 26th International Congress on Sound and Vibration
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Measurement and modeling of a resonator guitar
+  publisher: Proceedings of the ISMA
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Contact sensor processing for acoustic instrument recording using a modal
+    architecture
+  publisher: Proceedings of the International Conference of Digital Audio Effects,
+    Aveiro, Portugal
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: String synthesis using individually modeled termination scattering filters
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: An exploration of guitar neck admittance measurements taken at different
+    string stopping locations
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: An “Infinite” Sustain Effect Designed for Live Guitar Performance
+  publisher: Audio Engineering Society Convention 143
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Blind estimation of the reverberation fingerprint of unknown acoustic environments
+  publisher: Audio Engineering Society Convention 143
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Interpolation and Display of Microphone Directivity Measurements Using Higher
+    Order Spherical Harmonics
+  publisher: Audio Engineering Society Convention 143
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Physical model of a drum using an edge-diffraction approach
+  publisher: The Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Towards robust tracking with an unreliable motion sensor using machine learning.
+  publisher: NIME
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: An Evaluation of Two Microphone Techniques for Bleed Reduction Using Independent
+    Component Analysis
+  publisher: Audio Engineering Society Convention 141
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Investigating the effect of body geometry on the acoustics of electric guitars
+  publisher: Journal of the Acoustical Society of America
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Analyzing Physical Impacts using Transient Surface Wave Imaging: Supplementary
+    Materials'
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Bridging the Information Gap
+  date: '2024-11-03'
+  orcid: 0009-0007-1557-3628
+  mark-rau: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arxiv:2407.05516
+  title: Differentiable Modal Synthesis for Physical Modeling of Planar String Sound
+    and Motion Simulation
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  - Jin Woo Lee
+  - Jaehyun Park
+  - Min Jun Choi
+  - Kyogu Lee
+  publisher: arXiv
+  date: '2024-11-01'
+  link: https://arxiv.org/abs/2407.05516
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icassp48485.2024.10448242
+  title: String Sound Synthesizer On Gpu-Accelerated Finite Difference Scheme
+  authors:
+  - Jin Woo Lee
+  - Min Jun Choi
+  - Kyogu Lee
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/g99x5m
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2024.3490554
+  title: Inverse Nonlinearity Compensation of Dielectric Elastomers for Acoustic Actuation
+  authors:
+  - Jin Woo Lee
+  - Gwang Seok An
+  - Jeong-Yun Sun
+  - Kyogu Lee
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g99x5n
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/waspaa58266.2023.10248123
+  title: 'AECSQI: Referenceless Acoustic Echo Cancellation Measures Using Speech Quality
+    and Intelligibility Improvement'
+  authors:
+  - Jin Woo Lee
+  - Hyeong-Seok Choi
+  - Kyogu Lee
+  publisher: 2023 IEEE Workshop on Applications of Signal Processing to Audio and
+    Acoustics (WASPAA)
+  date: '2023-10-22'
+  link: https://doi.org/g99x5p
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icassp49357.2023.10096144
+  title: Global HRTF Interpolation Via Learned Affine Transformation of Hyper-Conditioned
+    Features
+  authors:
+  - Jin Woo Lee
+  - Sungho Lee
+  - Kyogu Lee
+  publisher: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2023-06-04'
+  link: https://doi.org/g99x5q
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icassp49357.2023.10095685
+  title: Neural Fourier Shift for Binaural Speech Rendering
+  authors:
+  - Jin Woo Lee
+  - Kyogu Lee
+  publisher: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2023-06-04'
+  link: https://doi.org/g99x5r
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21437/interspeech.2022-11460
+  title: Representation Selective Self-distillation and wav2vec 2.0 Feature Exploration
+    for Spoof-aware Speaker Verification
+  authors:
+  - Jin Woo Lee
+  - Eungbeom Kim
+  - Junghyun Koo
+  - Kyogu Lee
+  publisher: Interspeech 2022
+  date: '2022-09-18'
+  link: https://doi.org/g99x5s
+  orcid: 0009-0006-5716-3611
+  jin-woo-lee: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: arXiv:2106.03037
+  title: 'RTNeural: Fast Neural Inferencing for Real-Time Systems'
+  authors:
+  - Jatin Chowdhury
+  publisher: arXiv
+  date: '2021-06-08'
+  link: https://arxiv.org/abs/2106.03037
+  image: images/jatin/rtneural.png
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
+    type: source
+    link: https://github.com/jatinchowdhury18/RTNeural
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: arXiv:2406.06293
+  title: Sample Rate Independent Recurrent Neural Networks for Audio Effects Processing
+  authors:
+  - Alistair Carson
+  - Alec Wright
+  - Jatin Chowdhury
+  - Vesa Välimäki
+  - Stefan Bilbao
+  publisher: arXiv
+  date: '2024-06-11'
+  link: https://arxiv.org/abs/2406.06293
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: arXiv:2009.02833
+  title: A Comparison of Virtual Analog Modelling Techniques for Desktop and Embedded
+    Implementations
+  authors:
+  - Jatin Chowdhury
+  publisher: arXiv
+  date: '2020-09-08'
+  link: https://arxiv.org/abs/2009.02833
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: arXiv:2210.12554
+  title: 'chowdsp_wdf: An Advanced C++ Library for Wave Digital Circuit Modelling'
+  authors:
+  - Jatin Chowdhury
+  publisher: arXiv
+  date: '2022-10-25'
+  link: https://arxiv.org/abs/2210.12554
+  buttons:
+    type: source
+    link: https://github.com/Chowdhury-DSP/chowdsp_wdf
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.5281/zenodo.6566846
+  title: Emulating Diode Circuits with Differentiable Wave Digital Filters
+  authors:
+  - Jatin Chowdhury
+  - Christopher Johann Clarke
+  publisher: Zenodo
+  date: '2022-06-07'
+  link: https://doi.org/g99x6v
+  image: images/jatin/diff_wdf.png
+  buttons:
+    type: source
+    link: https://github.com/jatinchowdhury18/differentiable-wdfs
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.5281/zenodo.5045088
+  title: A Wave-Digital Modeling Library for the Faust Programming Language
+  authors:
+  - Dirk Roosenburg
+  - Eli Stine
+  - Romain Michon
+  - Jatin Chowdhury
+  publisher: Zenodo
+  date: '2021-06-30'
+  link: https://doi.org/g99x6w
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.1145/3538641.3561501
+  title: Computationally efficient physics approximating neural networks for highly
+    nonlinear maps
+  authors:
+  - Christopher Johann Clarke
+  - Jatin Chowdhury
+  - Cindy Ming Ying Lin
+  - Ivan Fu Xing Tan
+  - Prachee Priyadarshinee
+  - Balamurali BT
+  - Dorien Herremans
+  - Jer-Ming Chen
+  publisher: Proceedings of the Conference on Research in Adaptive and Convergent
+    Systems
+  date: '2022-10-03'
+  link: https://doi.org/g99x6x
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- id: doi:10.3847/1538-4357/aad188
+  title: 'The CHIME Fast Radio Burst Project: System Overview'
+  authors:
+  - M. Amiri
+  - K. Bandura
+  - P. Berger
+  - M. Bhardwaj
+  - M. M. Boyce
+  - P. J. Boyle
+  - C. Brar
+  - M. Burhanpurkar
+  - P. Chawla
+  - J. Chowdhury
+  - J.-F. Cliche
+  - M. D. Cranmer
+  - D. Cubranic
+  - M. Deng
+  - N. Denman
+  - M. Dobbs
+  - M. Fandino
+  - E. Fonseca
+  - B. M. Gaensler
+  - U. Giri
+  - A. J. Gilbert
+  - D. C. Good
+  - S. Guliani
+  - M. Halpern
+  - G. Hinshaw
+  - C. Höfer
+  - A. Josephy
+  - V. M. Kaspi
+  - T. L. Landecker
+  - D. Lang
+  - H. Liao
+  - K. W. Masui
+  - J. Mena-Parra
+  - A. Naidu
+  - L. B. Newburgh
+  - C. Ng
+  - C. Patel
+  - U.-L. Pen
+  - T. Pinsonneault-Marotte
+  - Z. Pleunis
+  - M. Rafiei Ravandi
+  - S. M. Ransom
+  - A. Renard
+  - P. Scholz
+  - K. Sigurdson
+  - S. R. Siegel
+  - K. M. Smith
+  - I. H. Stairs
+  - S. P. Tendulkar
+  - K. Vanderlinde
+  - D. V. Wiebe
+  publisher: The Astrophysical Journal
+  date: '2018-08-09'
+  link: https://doi.org/g99x7j
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- title: Real-Time Physical Modelling For Analog Tape Machines
+  authors:
+  - Jatin Chowdhury
+  image: images/jatin/tape.jpeg
+  buttons:
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
+    link: https://github.com/jatinchowdhury18/AnalogTapeModel
+  publisher: DAFx-19
+  date: '2019-09-02'
+  link: https://dafx.de/paper-archive/2019/DAFx2019_paper_3.pdf
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- title: Stable Structures for Nonlinear Biquad Filters
+  authors:
+  - Jatin Chowdhury
+  publisher: DAFx-20
+  date: '2020-09-02'
+  link: https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_3.pdf
+  jatin-chowdhury: true
+  plugin: sources.py
+  file: sources-2025.yaml
+- title: Water Bottle Synthesis with Modal Signal Processing
+  authors:
+  - Jatin Chowdhury
+  - Elliot Canfield-Dafilou
+  - Mark Rau
+  image: https://ccrma.stanford.edu/~jatin/Waterbottles/Scanning/HydroflaskWaterNoStickers_mode1780.gif
+  buttons:
+  - type: source
+    link: https://github.com/jatinchowdhury18/modal-waterbottles
   - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+    link: https://ccrma.stanford.edu/~jatin/Waterbottles/
+  publisher: DAFx-20
+  date: '2020-09-02'
+  link: https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_24.pdf
+  jatin-chowdhury: true
+  mark-rau: true
   plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  file: sources-2025.yaml
+- title: Inference-Time Structured Pruning for Real-Time Neural Network Audio Effects
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Jatin Chowdhury
+  - Christopher Johann Clarke
+  image: images/jatin/pruning.png
+  buttons:
+  - type: source
+    link: https://github.com/jatinchowdhury18/neural-pruning
+  publisher: DAFx-25
+  date: '2025-09-02'
+  link: https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_78.pdf
+  jatin-chowdhury: true
   plugin: sources.py
-  file: sources.yaml
+  file: sources-2025.yaml

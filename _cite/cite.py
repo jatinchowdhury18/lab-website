@@ -178,6 +178,7 @@ log("Saving updated citations")
 
 # save new citations
 try:
+    # print(citations)
     save_data(output_file, citations)
 except Exception as e:
     log(e, level="ERROR")

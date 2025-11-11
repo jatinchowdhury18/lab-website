@@ -3,8 +3,10 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # jatinchowdhury18's Website
+  # Mark Rau's Website
 
   Visit **[website url](#)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+
+## Local Build Instructions

@@ -7,7 +7,11 @@ debug.log
 __pycache__
 .DS_STORE
 .env*
+.venv*
 package.json
 package-lock.json
 yarn.lock
 node_modules
+
+.vscode
+.zed

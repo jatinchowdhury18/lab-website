@@ -168,7 +168,7 @@ def save_data(path, data):
     # try to save data as yaml
     try:
         with file:
-            yaml.dump(data, file, default_flow_style=False, sort_keys=False)
+            yaml.dump(data, file, default_flow_style=False, sort_keys=False, allow_unicode=True)
     except Exception:
         raise Exception("Can't save YAML to file")
 

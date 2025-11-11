@@ -1,9 +1,9 @@
 ---
 ---
 
-# jatinchowdhury18's Website
+# Mark Rau's Lab Website
 
-An engaging 1-3 sentence description of your lab.
+This is where the description of our lab will go...
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We do research on topics including musical acoustics, vibration and acoustic measurement, audio signal processing, and physical modeling synthesis
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are currently working on a variety of projects ranging from acoustical analysis of historical instruments, to spatial audio, neuro-science(?), circuit modelling, and more!
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team includes graduate students and post-doctoral fellows.
 
 {%
   include button.html
