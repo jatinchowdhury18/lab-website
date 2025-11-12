@@ -1,320 +1,176 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: A comparison of various steel-string acoustic guitars’ modal response with
-    relation to typical playing styles
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
+- title: Vibration and acoustic measurements of guitars with applications to luthiery,
+    synthesis, and audio effects
+  authors:
+  - Mark Rau
+  publisher: Stanford University
+  date: '2023-11-01'
+  link: https://searchworks.stanford.edu/view/in00000029258
   mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: A COMPARISON OF MODAL PARAMETER EXTRACTION METHODS WHEN APPLIED TO MEASUREMENTS
-    OF STRINGED INSTRUMENTS
-  publisher: measurements
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Analyzing physical impacts using transient surface wave imaging
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Realimpact: A dataset of impact sound fields for real objects'
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Sound synthesis of geometric and material changes in archtop guitars: towards
-    the timbral design of musical instruments'
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Vibration and Acoustic Measurements of Guitars with Applications to Luthiery
-    Synthesis and Audio Effects
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Augmenting a single-point laser doppler vibrometer to perform scanning measurements
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Diffimpact: Differentiable rendering and identification of impact sounds'
-  publisher: Conference on Robot Learning
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Modeling and correction of piezoelectric string instrument pickups
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Electric-to-acoustic pickup processing for string instruments: An experimental
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- id: doi:10.1121/10.0005540
+  title: 'Electric-to-acoustic pickup processing for string instruments: An experimental
     study of the guitar with a hexaphonic pickup'
+  authors:
+  - Mark Rau
+  - Jonathan S. Abel
+  - Doug James
+  - Julius O. Smith
   publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
+  date: '2021-07-01'
+  link: https://doi.org/g996kg
   mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Measurements and analysis of acoustic guitars during various stages of their
-    construction
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: String instrument acoustic transfer processing
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Water bottle synthesis with modal signal processing
-  publisher: Int. Conf. Digital Audio Effects (DAFx)
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: A comparison of nonlinear modal synthesis using a time varying linear approximation
-    and direct computation
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Improved carillon synthesis
-  publisher: Proceedings of the 22nd international conference on digital audio effects,
-    Birmingham, UK
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: MEASUREMENTS OF ACOUSTIC GUITAR TOP PLATES DURING THE VOICING PROCESS
-  publisher: 26th International Congress on Sound and Vibration
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Measurement and modeling of a resonator guitar
-  publisher: Proceedings of the ISMA
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Contact sensor processing for acoustic instrument recording using a modal
-    architecture
-  publisher: Proceedings of the International Conference of Digital Audio Effects,
-    Aveiro, Portugal
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: String synthesis using individually modeled termination scattering filters
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: An exploration of guitar neck admittance measurements taken at different
-    string stopping locations
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: An “Infinite” Sustain Effect Designed for Live Guitar Performance
-  publisher: Audio Engineering Society Convention 143
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Blind estimation of the reverberation fingerprint of unknown acoustic environments
-  publisher: Audio Engineering Society Convention 143
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Interpolation and Display of Microphone Directivity Measurements Using Higher
-    Order Spherical Harmonics
-  publisher: Audio Engineering Society Convention 143
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Physical model of a drum using an edge-diffraction approach
-  publisher: The Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Towards robust tracking with an unreliable motion sensor using machine learning.
-  publisher: NIME
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
 - title: An Evaluation of Two Microphone Techniques for Bleed Reduction Using Independent
     Component Analysis
-  publisher: Audio Engineering Society Convention 141
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Investigating the effect of body geometry on the acoustics of electric guitars
-  publisher: Journal of the Acoustical Society of America
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Analyzing Physical Impacts using Transient Surface Wave Imaging: Supplementary
-    Materials'
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Bridging the Information Gap
-  date: '2024-11-04'
-  orcid: 0009-0007-1557-3628
-  mark-rau: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: arxiv:2407.05516
-  title: Differentiable Modal Synthesis for Physical Modeling of Planar String Sound
-    and Motion Simulation
   authors:
-  - Jin Woo Lee
-  - Jaehyun Park
-  - Min Jun Choi
-  - Kyogu Lee
+  - Mark Rau
+  - Wieslaw Woszczyk
+  publisher: AES Convention 141
+  date: '2016-09-06'
+  link: https://aes2.org/publications/elibrary-page/?id=18478
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: An Exploration of Guitar Neck Admittance Measurements Taken at Different
+    String Stopping Locations
+  authors:
+  - Mark Rau
+  - Esteban Maestre
+  - Julius O. Smith
+  - Gary Scavone
+  publisher: ISMA-2017
+  date: '2017-06-18'
+  link: https://ccrma.stanford.edu/~mrau/papers/ISMA2017_Rau_Maestre_Smith_Scavone.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: Blind Estimation of the Reverberation Fingerprint of Unknown Acoustic Environments
+  authors:
+  - Prateek Murgai
+  - Mark Rau
+  - Jean-Marc Jot
+  publisher: AES Convention 143
+  date: '2017-10-06'
+  link: https://aes2.org/publications/elibrary-page/?id=19302
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: An “Infinite” Sustain Effect Designed for Live Guitar Performance
+  authors:
+  - Mark Rau
+  - Orchisama Das
+  publisher: AES Convention 143
+  date: '2017-10-06'
+  link: https://aes2.org/publications/elibrary-page/?id=19286
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: Contact sensor processing for acoustic instrument recording using a modal
+    architecture
+  authors:
+  - Mark Rau
+  - Jonathan Abel
+  - Julius O. Smith
+  publisher: DAFx-18
+  date: '2018-09-18'
+  link: https://ccrma.stanford.edu/~mrau/papers/DAFx2018_Rau_Abel_Smith.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: Measurements of acoustic guitar top plates during the voicing process
+  authors:
+  - Mark Rau
+  - Richard Hoover
+  publisher: ICSV26
+  date: '2019-07-07'
+  link: https://ccrma.stanford.edu/~mrau/papers/ICSV2019_Rau_Hoover.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: Measurement and modeling of a resonator guitar
+  authors:
+  - Mark Rau
+  - Julius O. Smith
+  publisher: ISMA-2019
+  date: '2019-09-13'
+  link: https://ccrma.stanford.edu/~mrau/papers/ISMA2019_Rau_Smith.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: Improved carillon synthesis
+  authors:
+  - Mark Rau
+  - Orchisama Das
+  - Elliot Canfield-Dafilou
+  publisher: DAFx-19
+  date: '2019-09-26'
+  link: https://ccrma.stanford.edu/~mrau/papers/DAFx2019_Rau_Das_Canfield-Dafilou.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: 'DiffImpact: Differentiable rendering and identification of impact sounds'
+  authors:
+  - Samuel Clarke
+  - Negin Heravi
+  - Mark Rau
+  - Ruohan Gao
+  - Jiajun Wu
+  - Doug James
+  - Jeannette Bohg
+  publisher: CoRL-2021
+  date: '2021-11-08'
+  link: https://ccrma.stanford.edu/~mrau/papers/CoRL2021_Clarke_Heravi_Rau_Gao_Wu_James_Bohg.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- id: arxiv:2306.09944
+  title: 'RealImpact: A Dataset of Impact Sound Fields for Real Objects'
+  authors:
+  - Samuel Clarke
+  - Ruohan Gao
+  - Mason Wang
+  - Mark Rau
+  - Julia Xu
+  - Jui-Hsien Wang
+  - Doug L. James
+  - Jiajun Wu
   publisher: arXiv
-  date: '2024-11-01'
-  link: https://arxiv.org/abs/2407.05516
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icassp48485.2024.10448242
-  title: String Sound Synthesizer On Gpu-Accelerated Finite Difference Scheme
+  date: '2023-06-19'
+  link: https://arxiv.org/abs/2306.09944
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- id: doi:10.1109/CVPR52729.2023.00422
+  title: Analyzing Physical Impacts Using Transient Surface Wave Imaging
   authors:
-  - Jin Woo Lee
-  - Min Jun Choi
-  - Kyogu Lee
-  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
-    and Signal Processing (ICASSP)
-  date: '2024-04-14'
-  link: https://doi.org/g99x5m
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/ACCESS.2024.3490554
-  title: Inverse Nonlinearity Compensation of Dielectric Elastomers for Acoustic Actuation
+  - Tianyuan Zhang
+  - Mark Sheinin
+  - Dorian Chan
+  - Mark Rau
+  - Matthew O'Toole
+  - Srinivasa G. Narasimhan
+  publisher: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2023-06-01'
+  link: https://doi.org/g996kr
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
+- title: A comparison of modal parameter extraction methods when applied to measurements
+    of stringed instruments
   authors:
-  - Jin Woo Lee
-  - Gwang Seok An
-  - Jeong-Yun Sun
-  - Kyogu Lee
-  publisher: IEEE Access
-  date: '2024-01-01'
-  link: https://doi.org/g99x5n
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/waspaa58266.2023.10248123
-  title: 'AECSQI: Referenceless Acoustic Echo Cancellation Measures Using Speech Quality
-    and Intelligibility Improvement'
-  authors:
-  - Jin Woo Lee
-  - Hyeong-Seok Choi
-  - Kyogu Lee
-  publisher: 2023 IEEE Workshop on Applications of Signal Processing to Audio and
-    Acoustics (WASPAA)
-  date: '2023-10-22'
-  link: https://doi.org/g99x5p
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icassp49357.2023.10096144
-  title: Global HRTF Interpolation Via Learned Affine Transformation of Hyper-Conditioned
-    Features
-  authors:
-  - Jin Woo Lee
-  - Sungho Lee
-  - Kyogu Lee
-  publisher: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech
-    and Signal Processing (ICASSP)
-  date: '2023-06-04'
-  link: https://doi.org/g99x5q
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/icassp49357.2023.10095685
-  title: Neural Fourier Shift for Binaural Speech Rendering
-  authors:
-  - Jin Woo Lee
-  - Kyogu Lee
-  publisher: ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech
-    and Signal Processing (ICASSP)
-  date: '2023-06-04'
-  link: https://doi.org/g99x5r
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21437/interspeech.2022-11460
-  title: Representation Selective Self-distillation and wav2vec 2.0 Feature Exploration
-    for Spoof-aware Speaker Verification
-  authors:
-  - Jin Woo Lee
-  - Eungbeom Kim
-  - Junghyun Koo
-  - Kyogu Lee
-  publisher: Interspeech 2022
-  date: '2022-09-18'
-  link: https://doi.org/g99x5s
-  orcid: 0009-0006-5716-3611
-  jin-woo-lee: true
-  plugin: orcid.py
-  file: orcid.yaml
+  - Mark Rau
+  - Julius O. Smith
+  - Jonathan Abel
+  publisher: Forum Acusticum 2023
+  date: '2023-09-11'
+  link: https://ccrma.stanford.edu/~mrau/papers/FA2023_MarkRau_JuliusSmith_JonathanAbel.pdf
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2025_and_before.yaml
 - id: arXiv:2106.03037
   title: 'RTNeural: Fast Neural Inferencing for Real-Time Systems'
   authors:
@@ -328,7 +184,7 @@
     link: https://github.com/jatinchowdhury18/RTNeural
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: arXiv:2406.06293
   title: Sample Rate Independent Recurrent Neural Networks for Audio Effects Processing
   authors:
@@ -342,7 +198,7 @@
   link: https://arxiv.org/abs/2406.06293
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: arXiv:2009.02833
   title: A Comparison of Virtual Analog Modelling Techniques for Desktop and Embedded
     Implementations
@@ -353,7 +209,7 @@
   link: https://arxiv.org/abs/2009.02833
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: arXiv:2210.12554
   title: 'chowdsp_wdf: An Advanced C++ Library for Wave Digital Circuit Modelling'
   authors:
@@ -366,7 +222,7 @@
     link: https://github.com/Chowdhury-DSP/chowdsp_wdf
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: doi:10.5281/zenodo.6566846
   title: Emulating Diode Circuits with Differentiable Wave Digital Filters
   authors:
@@ -381,7 +237,7 @@
     link: https://github.com/jatinchowdhury18/differentiable-wdfs
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: doi:10.5281/zenodo.5045088
   title: A Wave-Digital Modeling Library for the Faust Programming Language
   authors:
@@ -394,7 +250,7 @@
   link: https://doi.org/g99x6w
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: doi:10.1145/3538641.3561501
   title: Computationally efficient physics approximating neural networks for highly
     nonlinear maps
@@ -413,7 +269,7 @@
   link: https://doi.org/g99x6x
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - id: doi:10.3847/1538-4357/aad188
   title: 'The CHIME Fast Radio Burst Project: System Overview'
   authors:
@@ -473,7 +329,7 @@
   link: https://doi.org/g99x7j
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - title: Real-Time Physical Modelling For Analog Tape Machines
   authors:
   - Jatin Chowdhury
@@ -486,7 +342,7 @@
   link: https://dafx.de/paper-archive/2019/DAFx2019_paper_3.pdf
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - title: Stable Structures for Nonlinear Biquad Filters
   authors:
   - Jatin Chowdhury
@@ -495,7 +351,7 @@
   link: https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_3.pdf
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - title: Water Bottle Synthesis with Modal Signal Processing
   authors:
   - Jatin Chowdhury
@@ -513,7 +369,7 @@
   jatin-chowdhury: true
   mark-rau: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
 - title: Inference-Time Structured Pruning for Real-Time Neural Network Audio Effects
   authors:
   - Jatin Chowdhury
@@ -527,4 +383,4 @@
   link: https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_78.pdf
   jatin-chowdhury: true
   plugin: sources.py
-  file: sources-2025.yaml
+  file: sources-2025_and_before.yaml
