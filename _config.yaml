@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Mark Rau Lab
 subtitle:
-description: Makr Rau is a professor at MIT doing research in musical acoustics, and more...
+description: Mark Rau is a professor at MIT doing research in musical acoustics, and more...
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: mrau@mit.edu
-  orcid: 0009-0007-1557-3628
-  google-scholar: ETJoidYAAAAJ
-  github: jatinchowdhury18
-  twitter: jatinchowdhury18
-  youtube: jatinchowdhury18
+  # orcid: 0009-0007-1557-3628
+  # google-scholar: ETJoidYAAAAJ
+  # github: jatinchowdhury18
+  # twitter: jatinchowdhury18
+  # youtube: jatinchowdhury18
 
 ### jekyll settings
 

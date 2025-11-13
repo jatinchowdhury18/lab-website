@@ -8,5 +8,3 @@
   Visit **[jatinchowdhury18.github.io/lab-website](https://jatinchowdhury18.github.io/lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
-
-## Local Build Instructions

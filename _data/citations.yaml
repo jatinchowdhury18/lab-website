@@ -196,6 +196,7 @@
   publisher: arXiv
   date: '2024-06-11'
   link: https://arxiv.org/abs/2406.06293
+  image: images/jatin/sample_rate_lstm.png
   jatin-chowdhury: true
   plugin: sources.py
   file: sources-2025_and_before.yaml
@@ -207,6 +208,7 @@
   publisher: arXiv
   date: '2020-09-08'
   link: https://arxiv.org/abs/2009.02833
+  image: images/jatin/klon.png
   jatin-chowdhury: true
   plugin: sources.py
   file: sources-2025_and_before.yaml
@@ -217,6 +219,7 @@
   publisher: arXiv
   date: '2022-10-25'
   link: https://arxiv.org/abs/2210.12554
+  image: images/jatin/chowdsp_wdf.png
   buttons:
     type: source
     link: https://github.com/Chowdhury-DSP/chowdsp_wdf
@@ -238,98 +241,6 @@
   jatin-chowdhury: true
   plugin: sources.py
   file: sources-2025_and_before.yaml
-- id: doi:10.5281/zenodo.5045088
-  title: A Wave-Digital Modeling Library for the Faust Programming Language
-  authors:
-  - Dirk Roosenburg
-  - Eli Stine
-  - Romain Michon
-  - Jatin Chowdhury
-  publisher: Zenodo
-  date: '2021-06-30'
-  link: https://doi.org/g99x6w
-  jatin-chowdhury: true
-  plugin: sources.py
-  file: sources-2025_and_before.yaml
-- id: doi:10.1145/3538641.3561501
-  title: Computationally efficient physics approximating neural networks for highly
-    nonlinear maps
-  authors:
-  - Christopher Johann Clarke
-  - Jatin Chowdhury
-  - Cindy Ming Ying Lin
-  - Ivan Fu Xing Tan
-  - Prachee Priyadarshinee
-  - Balamurali BT
-  - Dorien Herremans
-  - Jer-Ming Chen
-  publisher: Proceedings of the Conference on Research in Adaptive and Convergent
-    Systems
-  date: '2022-10-03'
-  link: https://doi.org/g99x6x
-  jatin-chowdhury: true
-  plugin: sources.py
-  file: sources-2025_and_before.yaml
-- id: doi:10.3847/1538-4357/aad188
-  title: 'The CHIME Fast Radio Burst Project: System Overview'
-  authors:
-  - M. Amiri
-  - K. Bandura
-  - P. Berger
-  - M. Bhardwaj
-  - M. M. Boyce
-  - P. J. Boyle
-  - C. Brar
-  - M. Burhanpurkar
-  - P. Chawla
-  - J. Chowdhury
-  - J.-F. Cliche
-  - M. D. Cranmer
-  - D. Cubranic
-  - M. Deng
-  - N. Denman
-  - M. Dobbs
-  - M. Fandino
-  - E. Fonseca
-  - B. M. Gaensler
-  - U. Giri
-  - A. J. Gilbert
-  - D. C. Good
-  - S. Guliani
-  - M. Halpern
-  - G. Hinshaw
-  - C. Höfer
-  - A. Josephy
-  - V. M. Kaspi
-  - T. L. Landecker
-  - D. Lang
-  - H. Liao
-  - K. W. Masui
-  - J. Mena-Parra
-  - A. Naidu
-  - L. B. Newburgh
-  - C. Ng
-  - C. Patel
-  - U.-L. Pen
-  - T. Pinsonneault-Marotte
-  - Z. Pleunis
-  - M. Rafiei Ravandi
-  - S. M. Ransom
-  - A. Renard
-  - P. Scholz
-  - K. Sigurdson
-  - S. R. Siegel
-  - K. M. Smith
-  - I. H. Stairs
-  - S. P. Tendulkar
-  - K. Vanderlinde
-  - D. V. Wiebe
-  publisher: The Astrophysical Journal
-  date: '2018-08-09'
-  link: https://doi.org/g99x7j
-  jatin-chowdhury: true
-  plugin: sources.py
-  file: sources-2025_and_before.yaml
 - title: Real-Time Physical Modelling For Analog Tape Machines
   authors:
   - Jatin Chowdhury
@@ -348,6 +259,7 @@
   - Jatin Chowdhury
   publisher: DAFx-20
   date: '2020-09-02'
+  image: images/jatin/nonlin_biquad.png
   link: https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_3.pdf
   jatin-chowdhury: true
   plugin: sources.py

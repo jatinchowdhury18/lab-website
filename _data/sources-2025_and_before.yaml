@@ -112,6 +112,7 @@
     link: https://github.com/jatinchowdhury18/RTNeural
   jatin-chowdhury: true
 - id: arXiv:2406.06293 # Sample-Rate Independent
+  image: images/jatin/sample_rate_lstm.png
   jatin-chowdhury: true
   authors:
     - Alistair Carson
@@ -119,9 +120,11 @@
     - Jatin Chowdhury
     - Vesa Välimäki
     - Stefan Bilbao
-- id: arXiv:2009.02833 # Comparison of VA...
+- id: arXiv:2009.02833 # Klon
+  image: images/jatin/klon.png
   jatin-chowdhury: true
 - id: arXiv:2210.12554 # chowdsp_wdf
+  image: images/jatin/chowdsp_wdf.png
   buttons:
     type: source
     link: https://github.com/Chowdhury-DSP/chowdsp_wdf
@@ -132,17 +135,17 @@
     type: source
     link: https://github.com/jatinchowdhury18/differentiable-wdfs
   jatin-chowdhury: true
-- id: doi:10.5281/zenodo.5045088 # Faust WDFs
-  authors:
-    - Dirk Roosenburg
-    - Eli Stine
-    - Romain Michon
-    - Jatin Chowdhury
-  jatin-chowdhury: true
-- id: doi:10.1145/3538641.3561501 # PANNs
-  jatin-chowdhury: true
-- id: doi:10.3847/1538-4357/aad188 # CHIME/FRB
-  jatin-chowdhury: true
+# - id: doi:10.5281/zenodo.5045088 # Faust WDFs
+#   authors:
+#     - Dirk Roosenburg
+#     - Eli Stine
+#     - Romain Michon
+#     - Jatin Chowdhury
+#   jatin-chowdhury: true
+# - id: doi:10.1145/3538641.3561501 # PANNs
+#   jatin-chowdhury: true
+# - id: doi:10.3847/1538-4357/aad188 # CHIME/FRB
+#   jatin-chowdhury: true
 - title: Real-Time Physical Modelling For Analog Tape Machines
   authors:
     - Jatin Chowdhury
@@ -159,6 +162,7 @@
     - Jatin Chowdhury
   publisher: DAFx-20
   date: 2020-09-02
+  image: images/jatin/nonlin_biquad.png
   link: https://dafx2020.mdw.ac.at/proceedings/papers/DAFx2020_paper_3.pdf
   jatin-chowdhury: true
 - title: Water Bottle Synthesis with Modal Signal Processing

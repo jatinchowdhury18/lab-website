@@ -1,47 +1,26 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Museum of Fine Arts
+  subtitle: Measuring, modelling, and re-creating historic instruments
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://google.com
+  description: We are currently engaged in a project with the Boston Museum of Fine Arts, working to take measurements of their collection of historic instruments.
   tags:
-    - resource
+    - research
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: RTNeural
+  subtitle: Real-time neural network inference
+  image: images/jatin/rtneural.png
+  link: https://github.com/jatinchowdhury18/RTNeural
+  description: Standard neural network inference engines are not suitable for most real-time audio applications. RTNeural intends to fill that gap.
+  repo: jatinchowdhury18/RTNeural
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Wave Digital Filters
+  subtitle: Circuit modelling with WDFs
+  image: images/jatin/chowdsp_wdf.png
+  link: https://github.com/Chowdhury-DSP/chowdsp_wdf
+  description: Attempting to model musical circuits accurately and with the best possible run-time performance.
+  repo: Chowdhury-DSP/chowdsp_wdf
   tags:
     - software

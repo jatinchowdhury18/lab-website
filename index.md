@@ -3,7 +3,9 @@
 
 # Mark Rau's Lab Website
 
-This is where the description of our lab will go...
+Our lab studies musical instruments, musicians, and music-making tools, through the lens of signal processing, acoustic and electronic measurement, and physical modelling. Occasionally, we also make music.
+
+Our [team](./team/) includes a variety of talented people with backgrounds in physics, electrical engineering, mechanical engineering and more. If you are interested in working with us, please [contact us](./contact).
 
 {% include section.html %}
 
@@ -34,7 +36,7 @@ We do research on topics including musical acoustics, vibration and acoustic mea
 
 {% capture text %}
 
-We are currently working on a variety of projects ranging from acoustical analysis of historical instruments, to spatial audio, neuro-science(?), circuit modelling, and more!
+We are currently working on a variety of projects ranging from acoustical analysis of historical instruments, to spatial audio, neuroscience, circuit modelling, and more!
 
 {%
   include button.html
