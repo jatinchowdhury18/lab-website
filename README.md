@@ -9,11 +9,26 @@
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
+## Running locally:
+
+Run on localhost
+```
+bundle exec jekyll serve --open-url --livereload --trace
+```
+
+Generate citations:
+```
+source ./.venv/bin/activate && python3 ./_cite/cite.py
+```
+
+---
+
 TODO:
-- Mark
+- Mark/Jatin
   - Repository
   - Hosting through MIT
   - Content
+    - Lab logo
     - Image to use for "Research" section
     - Image to use for "Projects" section
     - Team image
