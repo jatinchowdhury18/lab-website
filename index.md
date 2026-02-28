@@ -1,7 +1,7 @@
 ---
 ---
 
-# Mark Rau's Lab Website
+# LAMA | Laboratory for Audio, Music, and Acoustics
 
 Our lab studies musical instruments, musicians, and music-making tools, through the lens of signal processing, acoustic and electronic measurement, and physical modelling. Occasionally, we also make music.
 
@@ -28,7 +28,7 @@ We do research on topics including musical acoustics, vibration and acoustic mea
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/violin.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ We are currently working on a variety of projects ranging from acoustical analys
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/spatial_lab.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -76,7 +76,7 @@ Our team includes graduate students and post-doctoral fellows.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group_photo.png"
   link="team"
   title="Our Team"
   text=text
