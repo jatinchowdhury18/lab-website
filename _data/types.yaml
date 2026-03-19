@@ -2,9 +2,9 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+assistant-professor:
+  icon: fa-solid fa-chalkboard-user
+  description: Assistant Professor
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -15,11 +15,11 @@ phd:
   description: PhD Student
 
 masters:
-  icon: fa-solid fa-chalkboard-user
+  icon: fa-solid fa-book
   description: Masters Student
 
 undergrad:
-  icon: fa-solid fa-book
+  icon: fa-solid fa-pencil
   description: Undergraduate Student
 
 programmer:
