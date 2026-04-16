@@ -1,6 +1,6 @@
 ---
 name: Alex Tung
-image: images/alex/alex_speakies.jpeg
+image: images/alex/alex_speakies.jpg
 role: phd
 affiliation: Massachusetts Institute of Technology
 links:
