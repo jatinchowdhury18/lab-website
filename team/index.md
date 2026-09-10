@@ -7,12 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our team is great!
+Our team brings together backgrounds in physics, electrical and mechanical engineering, music, and more.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

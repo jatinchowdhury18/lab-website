@@ -1,7 +1,7 @@
 - title: Museum of Fine Arts
   subtitle: Measuring, modelling, and re-creating historic instruments
   group: featured
-  image: images/photo.jpg
+  image: images/mfa.jpg
   link: https://google.com
   description: We are currently engaged in a project with the Boston Museum of Fine Arts, working to take measurements of their collection of historic instruments.
   tags:
@@ -22,5 +22,23 @@
   link: https://github.com/Chowdhury-DSP/chowdsp_wdf
   description: Attempting to model musical circuits accurately and with the best possible run-time performance.
   repo: Chowdhury-DSP/chowdsp_wdf
+  tags:
+    - software
+
+- title: ADAC
+  subtitle: Compiling differentiable audio graphs to real-time DSP
+  image: images/facundo/adac_pipeline.png
+  link: https://github.com/cucuwritescode/adac
+  description: Compiling differentiable LTI systems into real-time DSP.
+  repo: cucuwritescode/adac
+  tags:
+    - software
+
+- title: pyFDN
+  subtitle: Feedback delay networks in Python
+  image: images/facundo/pyfdn_logo.png
+  link: https://github.com/artificial-audio/pyFDN
+  description: Python library for designing, training and deploying Feedback Delay Networks. A [DAFx 2026 tutorial](https://artificial-audio.github.io/pyfdn-tutorial-2026/).
+  repo: artificial-audio/pyFDN
   tags:
     - software

@@ -11,3 +11,26 @@
   link: https://dafx26.mit.edu/assets/papers/DAFx26_paper_23.pdf
   jatin-chowdhury: true
   mark-rau: true
+
+# Facundo (2026)
+- title: Compiling Differentiable Audio Graphs to Real-Time DSP
+  authors:
+    - Facundo Franchino
+    - Sebastian J. Schlecht
+  publisher: DAFx 2026 (Demonstrations Track)
+  date: 2026-09-03
+  link: https://arxiv.org/abs/2606.21277
+  image: images/facundo/adac_pipeline.png
+  buttons:
+    - type: source
+      link: https://github.com/cucuwritescode/adac
+  facundo-franchino: true
+
+- title: Structured Pruning of Feedback Delay Networks
+  authors:
+    - Facundo Franchino
+  publisher: University of York
+  date: 2026-04-28
+  link: https://cucuwritescode.github.io/demo-day/
+  image: images/facundo/fdn_diagram.svg
+  facundo-franchino: true
