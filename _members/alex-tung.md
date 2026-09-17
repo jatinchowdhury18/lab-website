@@ -2,7 +2,7 @@
 name: Alex Tung
 image: images/alex/alex_speakies.jpg
 role: phd
-affiliation: Massachusetts Institute of Technology
+affiliation: MIT
 links:
   home-page: https://alextongue.com
   orcid: 0009-0007-1557-3628

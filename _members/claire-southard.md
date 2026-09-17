@@ -2,7 +2,8 @@
 name: Claire Southard
 image: images/claire/Southard-31.jpeg
 role: masters
-affiliation: Massachusetts Institute of Technology
+affiliation: MIT
+alumni: true
 ---
 
 Hi! I’m Claire Southard, a student pursuing a Master’s in Music Technology and Computation at MIT. My focus is on making music performance accessible to musicians with movement disorders through brain-computer interfaces.

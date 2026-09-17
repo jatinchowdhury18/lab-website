@@ -2,7 +2,7 @@
 name: Jatin Chowdhury
 image: images/jatin/headshot3.jpg
 role: phd
-affiliation: Massachusetts Institute of Technology
+affiliation: MIT
 links:
   home-page: https://ccrma.stanford.edu/~jatin
   github: jatinchowdhury18

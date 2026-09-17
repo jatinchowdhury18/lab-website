@@ -2,7 +2,8 @@
 name: Jin Woo Lee
 image: images/jin/headshot.JPG
 role: postdoc
-affiliation: Massachusetts Institute of Technology
+affiliation: MIT (now an Assistant Professor at KAIST)
+alumni: true
 links:
   home-page: https://jin-woo-lee.github.io
   github: jin-woo-lee
