@@ -39,6 +39,15 @@ collections:
   # generate page for each member
   members:
     output: true
+    order:
+      - mark-rau.md
+      - jatin-chowdhury.md
+      - alex-tung.md
+      - kaylyn-holmes.md
+      - matthew-taylor.md
+      - facundo-franchino.md
+      - claire-southard.md
+      - jin-woo-lee.md
   # generate page for each post
   posts:
     output: true

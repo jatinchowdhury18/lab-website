@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__POSIX___SPAWN: "--with-cflags=-Wno-error=incompatible-function-pointer-types -Wno-error=implicit-function-declaration -Wno-error=implicit-int"
