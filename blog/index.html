@@ -553,6 +553,95 @@
     
 
     <div class="post-excerpt-text">
+      <a href="/lab-website/2026/09/22/coding.html">Programming Resources</a>
+
+      <div class="post-info">
+  
+    
+    
+      
+      
+        
+
+
+
+<div class="portrait-wrapper">
+  <a href="/lab-website/members/jatin-chowdhury.html" class="portrait" data-style="tiny" aria-label="Jatin Chowdhury">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
+    <img src="/lab-website/images/jatin/headshot3.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/lab-website/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-name">
+        Jatin Chowdhury
+      </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD Student
+      </span>
+    
+
+    
+      <span class="portrait-affiliation">
+        Massachusetts Institute of Technology
+      </span>
+    
+  </a>
+</div>
+
+      
+    
+  
+
+  
+  
+
+  
+    <span data-tooltip="Originally published on">
+      <i class="icon fa-regular fa-calendar"></i>
+      <span>September 22, 2026</span>
+    </span>
+  
+
+  
+</div>
+
+
+  
+
+
+
+
+
+
+      
+      
+      <p data-search="Over the past 8 years in academia and industry, I ve spent the vastmajority of my working time writing code. Along the way, I ve developedsome fairly strong opinions about good and bad ways to write code,and I ve collected a reasonably large supply of educational resources.The purpose of this post is to collect those resources in one organizedplace.System ArchitectureCasey Muratori has been massively influential on my understanding ofsystem architecture, and many of my formative opinions on the subjecthave come from his Handmade Hero and Performance-AwareProgramming series. The Big OOPs describes the history of object-oriented architecture,and along the way uncovers a 35-year gap between the first usage ofan entity-component system in 1963 and it s re-discovery in 1998.I could have easily picked 7 or 8 clips from Handmade Hero , but thisclip is arguably my favorite. Casey points out the complexity thatcomes with common system architectures for things like memoryallocation and error handling, and encourages the programmer tothink more in terms of groups of things rather than individual things.Data-Oriented DesignMike Acton s 2014 CppCon keynote has achieved legendary status amongstsome classes of programmers, and for good reason. Along with layingout the groundwork and implications of successful data-orientedprogramming, Mike has a great philosophy of treating computerscience as a proper science where claims can be tested andverified on the target hardware.Nic Barker gives a somewhat friendlier introduction to data-orientedprogramming. In particular, I love his analogy for the various layersof data caches and how he builds an intuition for how long memory accesstakes across the different layers.Memory AllocationUntangling Lifetimes by Ryan FleuryMaking performant dynamic manual memory management in C feel almost like garbage collection.Read on SubstackRyan Fleury s article about memory arenas was massively influentialfor me, and changed the way that I do memory management in my day-to-daywork. In particular, I like how he breaks down the barriers of whatlanguage constructs make available the stack , the heap , etc in order to find a memory interface works best for the specific problemsthat he s working on. Memory Allocation Strategies Ginger Bill s series on memory allocation strategies, covering arenas, pools, and other approaches to manual memory management. Ginger Bill creator of the Odin programming language has a wonderful series of blogs outlining the construction of many basicmemory allocators, including arenas, pools, buddy allocators, and more.I gave a talk for The Audio Programmera couple years ago, describing how I use memory arenas specifically forreal-time audio applications.Multi-Threaded ProgrammingMulti-threaded programming is a massive topic in its own right.This list is a bit heavier on things that matter a lot forthe types of software that I write, notably lock-free andwait-free programming.Jon s talk for Jane Street breaks down the relationship betweenCPU cache lines and cross-core communication that even atomic operations typically require. He also introduces a clever left-right algorithm that allows wait-free read operationsto parallelize at scale.Dennis Gustafsson presents a specific parallel programmingproblem, and gives great insight into profiling thebottlenecks and arriving at an efficient solution.Multi-Core By Default by Ryan FleuryOn multi-core programming, not as a special-case technique, but as a new dimension in all code.Read on SubstackRyan Fleury talks through parallelism more at the architecturelevel. Incidentally, the design that he arrives at is quitesimilar to the thread pool mechanism present in the CLAP plugin standard.Timur Doumler is really the person to listen to when it comesto real-time programming in C for audio applications. I couldhave picked a number of his blog posts or conference talks, butI really like the RCU algorithm thta he presents here, and it sbeen quite influential on my own work.Speaking of This is a talk that I gave for the Northwest C Users Group discussing the development of a wait-free algorithmfrom first principles. This talk was heavily influenced by Timurand Jon s talks linked above.Coding StyleWhen I was learning to program Clean Code was all the rage. It took a while to de-program myselffrom that mindset.Casey Muratori did a lot of that work in just 20 minutes,demonstrating how commonly cited clean coding practicescould easily wipe out a decade or more of hardware performanceimprovements. Codin Dirty In this essay I want to talk about how I write code. I am going to call my approach codin dirty because I often go against the recommendations of Clean Code, a popular approach to writing code. Carson Gross makes two great points here: Breaking Clean Code principles can often make your code more understandable and maintainable. There are lots of ways to write code successfully find what works for you, and don t be intimidated by seemingly strict sets of rules.Philosophy Wheel Reinventor s Principles Why and how I sometimes write stuff from scratch. Programmers are often told to not reinvent the wheel . Of course, peoplewho actually make wheels re-invent them all the time, otherwise we mightbe driving cars that look like this:don 39;t reinvent the wheel pic.twitter.com xWuoXWl2qn mdash; Tyler Glaiel TylerGlaiel April 3, 2020I spend a lot of time thinking about software performance, and perhapseven more time trying to get other people to care. Grace Hopper presentsan obvious physical reminder of what programmers are throwing away,when they throw away microseconds .Technology occupies a precarious position in our currentcivilization. While our society depends ever more ontechnology, there are massive problems with supply chains,overly centralized knowledge, and especially complexitythat could lead to a civilization-level collapse, as seenduring the Bronze Age and other times throughout history.Building up fundamental understanding and culturesof engineering excellence can go a long way towardsstabilizing our relationship with technology Evenin seemingly non-serious areas like audio and gamesprogramming. The Grug Brained Developer A layman s guide to thinking like the self-aware smol brained. Speaking of complexity The Grug Brained Developer is hereto remind us that you don t need to be smart or clever to beeffective. In fact, programmers trying to be smart or cleverare often the ones who get into trouble with complexity.Simplify. Say no. Say: complexity very, very bad.">
+        Over the past 8 years in academia and industry, I’ve spent the vast
+majority of my working time writing code. Along the way, I’ve developed
+some fairly strong opinions about good and bad ways to write code,
+and I’ve collected a reasonably large supply of educational resources.
+The purpose of this post is to collect those resources in one organized
+place.
+
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    
+    
+    
+
+    
+
+    <div class="post-excerpt-text">
       <a href="/lab-website/2026/09/08/transforms.html">On Transforms</a>
 
       <div class="post-info">
@@ -610,7 +699,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>September 10, 2026</span>
+      <span>September 22, 2026</span>
     </span>
   
 </div>

@@ -1,4 +1,219 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://jatinchowdhury18.github.io/lab-website/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jatinchowdhury18.github.io/lab-website/" rel="alternate" type="text/html" /><updated>2026-09-10T21:54:07+00:00</updated><id>https://jatinchowdhury18.github.io/lab-website/feed.xml</id><title type="html">LAMA | Laboratory for Audio, Music, and Acoustics</title><subtitle>Mark Rau is a professor at MIT doing research in musical acoustics, and more...</subtitle><entry><title type="html">On Transforms</title><link href="https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms.html" rel="alternate" type="text/html" title="On Transforms" /><published>2026-09-08T00:00:00+00:00</published><updated>2026-09-10T21:53:33+00:00</updated><id>https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms</id><content type="html" xml:base="https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms.html"><![CDATA[<p>this is a laplace transform!!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://jatinchowdhury18.github.io/lab-website/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jatinchowdhury18.github.io/lab-website/" rel="alternate" type="text/html" /><updated>2026-09-22T13:41:13+00:00</updated><id>https://jatinchowdhury18.github.io/lab-website/feed.xml</id><title type="html">LAMA | Laboratory for Audio, Music, and Acoustics</title><subtitle>Mark Rau is a professor at MIT doing research in musical acoustics, and more...</subtitle><entry><title type="html">Programming Resources</title><link href="https://jatinchowdhury18.github.io/lab-website/2026/09/22/coding.html" rel="alternate" type="text/html" title="Programming Resources" /><published>2026-09-22T00:00:00+00:00</published><updated>2026-09-22T13:40:42+00:00</updated><id>https://jatinchowdhury18.github.io/lab-website/2026/09/22/coding</id><content type="html" xml:base="https://jatinchowdhury18.github.io/lab-website/2026/09/22/coding.html"><![CDATA[<p>Over the past 8 years in academia and industry, I’ve spent the vast
+majority of my working time writing code. Along the way, I’ve developed
+some fairly strong opinions about good and bad ways to write code,
+and I’ve collected a reasonably large supply of educational resources.
+The purpose of this post is to collect those resources in one organized
+place.</p>
+
+<h2 id="system-architecture">System Architecture</h2>
+
+<p>Casey Muratori has been massively influential on my understanding of
+system architecture, and many of my formative opinions on the subject
+have come from his “Handmade Hero” and “Performance-Aware
+Programming” series.</p>
+
+<p><img src="https://youtu.be/wo84LFzx5nI" alt="The Big OOPs" /></p>
+
+<p>“The Big OOPs” describes the history of object-oriented architecture,
+and along the way uncovers a 35-year gap between the first usage of
+an <a href="https://en.wikipedia.org/wiki/Entity_component_system">“entity-component system”</a>
+in 1963(!) and it’s re-discovery in 1998.</p>
+
+<p><img src="https://youtu.be/xt1KNDmOYqA" alt="Becoming an N+2 Programmer" /></p>
+
+<p>I could have easily picked 7 or 8 clips from “Handmade Hero”, but this
+clip is arguably my favorite. Casey points out the complexity that
+comes with common system architectures for things like memory
+allocation and error handling, and encourages the programmer to
+think more in terms of “groups” of things rather than “individual” things.</p>
+
+<h2 id="data-oriented-design">Data-Oriented Design</h2>
+
+<p><img src="https://youtu.be/rX0ItVEVjHc" alt="Data-Oriented Design and C++" /></p>
+
+<p>Mike Acton’s 2014 CppCon keynote has achieved legendary status amongst
+some classes of programmers, and for good reason. Along with laying
+out the groundwork and implications of successful data-oriented
+programming, Mike has a great philosophy of treating computer
+science as a proper “science” where claims can be tested and
+verified on the target hardware.</p>
+
+<p><img src="https://youtu.be/WwkuAqObplU" alt="Intro to Data Oriented Design for Games" /></p>
+
+<p>Nic Barker gives a somewhat friendlier introduction to data-oriented
+programming. In particular, I love his analogy for the various layers
+of data caches and how he builds an intuition for how long memory access
+takes across the different layers.</p>
+
+<h2 id="memory-allocation">Memory Allocation</h2>
+
+<div class="substack-post-embed"><p lang="en">Untangling Lifetimes by Ryan Fleury</p><p>Making performant dynamic manual memory management in C feel almost like garbage collection.</p><a data-post-link="" href="https://www.dgtlgrove.com/p/untangling-lifetimes-the-arena-allocator">Read on Substack</a></div>
+<script async="" src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+<p>Ryan Fleury’s article about memory arenas was massively influential
+for me, and changed the way that I do memory management in my day-to-day
+work. In particular, I like how he breaks down the barriers of what
+language constructs make available (“the stack”, “the heap”, etc)
+in order to find a memory interface works best for the specific problems
+that he’s working on.</p>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    <a href="https://www.gingerbill.org/series/memory-allocation-strategies" class="post-excerpt-image" aria-label="Memory Allocation Strategies">
+      <img src="https://bsc2025.gingerbill.org/media/bill.png" alt="Ginger Bill" loading="lazy" />
+    </a>
+    <div class="post-excerpt-text">
+      <a href="https://www.gingerbill.org/series/memory-allocation-strategies">Memory Allocation Strategies</a>
+      <p>Ginger Bill's series on memory allocation strategies, covering arenas, pools, and other approaches to manual memory management.</p>
+    </div>
+  </div>
+</div>
+
+<p>Ginger Bill (creator of the <a href="https://odin-lang.org">Odin</a> programming language)
+has a wonderful series of blogs outlining the construction of many basic
+memory allocators, including arenas, pools, buddy allocators, and more.</p>
+
+<p><img src="https://youtu.be/43DVIpRD7ls" alt="Real-Time Programming with Memory Arenas" /></p>
+
+<p>I gave a talk for <a href="https://www.theaudioprogrammer.com/">The Audio Programmer</a>
+a couple years ago, describing how I use memory arenas specifically for
+real-time audio applications.</p>
+
+<h2 id="multi-threaded-programming">Multi-Threaded Programming</h2>
+
+<p>Multi-threaded programming is a massive topic in its own right.
+This list is a bit heavier on things that matter a lot for
+the types of software that I write, notably lock-free and
+wait-free programming.</p>
+
+<p><img src="https://youtu.be/tND-wBBZ8RY" alt="The Cost of Concurrency Coordination" /></p>
+
+<p>Jon’s talk for Jane Street breaks down the relationship between
+CPU cache lines and cross-core communication that even “atomic”
+operations typically require. He also introduces a clever
+“left-right” algorithm that allows wait-free “read” operations
+to parallelize at scale.</p>
+
+<p><img src="https://youtu.be/Kvsvd67XUKw" alt="Parallelizing the Physics Solver" /></p>
+
+<p>Dennis Gustafsson presents a specific parallel programming
+problem, and gives great insight into profiling the
+bottlenecks and arriving at an efficient solution.</p>
+
+<div class="substack-post-embed"><p lang="en">Multi-Core By Default by Ryan Fleury</p><p>On multi-core programming, not as a special-case technique, but as a new dimension in all code.</p><a data-post-link="" href="https://www.dgtlgrove.com/p/multi-core-by-default">Read on Substack</a></div>
+<script async="" src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+
+<p>Ryan Fleury talks through parallelism more at the architecture
+level. Incidentally, the design that he arrives at is quite
+similar to the <a href="https://github.com/free-audio/clap/blob/main/include/clap/ext/thread-pool.h">“thread pool”</a>
+mechanism present in the CLAP plugin standard.</p>
+
+<p><img src="https://youtu.be/7fKxIZOyBCE" alt="Thread Synchronization in Real-Time Audio Processing with RCU" /></p>
+
+<p>Timur Doumler is really the person to listen to when it comes
+to real-time programming in C++ for audio applications. I could
+have picked a number of his blog posts or conference talks, but
+I really like the RCU algorithm thta he presents here, and it’s
+been quite influential on my own work.</p>
+
+<p><img src="https://youtu.be/A9Gf0wFz3kQ" alt="Wait-Free Programming from Scratch" /></p>
+
+<p>Speaking of… This is a talk that I gave for the Northwest C++
+Users Group discussing the development of a wait-free algorithm
+from first principles. This talk was <em>heavily</em> influenced by Timur
+and Jon’s talks linked above.</p>
+
+<h2 id="coding-style">Coding Style</h2>
+
+<p>When I was learning to program <a href="https://www.amazon.com/dp/B0FX3CJGFX">“Clean Code”</a>
+was all the rage. It took a while to de-program myself
+from that mindset.</p>
+
+<p><img src="https://youtu.be/tD5NrevFtbU" alt="Clean Code, Horrible Performance" /></p>
+
+<p>Casey Muratori did a lot of that work in just 20 minutes,
+demonstrating how commonly cited “clean coding” practices
+could easily wipe out a decade or more of hardware performance
+improvements.</p>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    <a href="https://htmx.org/essays/codin-dirty" class="post-excerpt-image" aria-label="Codin' Dirty">
+      <img src="https://htmx.org/img/quick-and-dirty.png" alt="Quick And Dirty" loading="lazy" />
+    </a>
+    <div class="post-excerpt-text">
+      <a href="https://htmx.org/essays/codin-dirty">Codin' Dirty</a>
+      <p>In this essay I want to talk about how I write code. I am going to call my approach “codin’ dirty” because I often go against the recommendations of Clean Code, a popular approach to writing code.</p>
+    </div>
+  </div>
+</div>
+
+<p>Carson Gross makes two great points here:</p>
+<ol>
+  <li>Breaking “Clean Code” principles can (often) make your code <em>more</em> understandable and maintainable.</li>
+  <li>There are lots of ways to write code successfully… find what works for you, and don’t be intimidated by seemingly strict sets of rules.</li>
+</ol>
+
+<h2 id="philosophy">Philosophy</h2>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    <a href="https://tobloef.com/blog/wheel-reinventors-principles" class="post-excerpt-image" aria-label="Wheel Reinventor's Principles">
+      <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lqbuoguml4hjzcosxptitpwe/bafkreibzmaukpn3qwmaxggcnrthbk3swepkvmncvt6twxvfc35ygmzv5xe" alt="Tobias Løfgren" loading="lazy" />
+    </a>
+    <div class="post-excerpt-text">
+      <a href="https://tobloef.com/blog/wheel-reinventors-principles">Wheel Reinventor's Principles</a>
+      <p>Why and how I sometimes write stuff from scratch.</p>
+    </div>
+  </div>
+</div>
+
+<p>Programmers are often told to “not reinvent the wheel”. Of course, people
+who actually make wheels re-invent them all the time, otherwise we might
+be driving cars that look like this:</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-theme="dark"><p lang="en" dir="ltr">don&#39;t reinvent the wheel <a href="https://t.co/xWuoXWl2qn">pic.twitter.com/xWuoXWl2qn</a></p>&mdash; Tyler Glaiel (@TylerGlaiel) <a href="https://x.com/TylerGlaiel/status/1246223503419830273?ref_src=twsrc%5Etfw">April 3, 2020</a></blockquote>
+<script async="" src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<p><img src="https://youtu.be/9eyFDBPk4Yw" alt="Admiral Grace Hopper Explains the Nanosecond" /></p>
+
+<p>I spend a lot of time thinking about software performance, and perhaps
+even more time trying to get other people to care. Grace Hopper presents
+an obvious physical reminder of “what programmers are throwing away,
+when they throw away microseconds”.</p>
+
+<p><img src="https://youtu.be/ZSRHeXYDLko" alt="Preventing the Collapse of Civilization" /></p>
+
+<p>Technology occupies a precarious position in our current
+civilization. While our society depends ever more on
+technology, there are massive problems with supply chains,
+overly centralized knowledge, and <em>especially</em> complexity
+that could lead to a civilization-level collapse, as seen
+during the Bronze Age and other times throughout history.</p>
+
+<p>Building up fundamental understanding and cultures
+of engineering excellence can go a long way towards
+stabilizing our relationship with technology… Even
+in seemingly non-serious areas like audio and games
+programming.</p>
+
+<div class="post-excerpt-container">
+  <div class="post-excerpt">
+    <a href="https://grugbrain.dev/" class="post-excerpt-image" aria-label="The Grug Brained Developer">
+      <img src="https://grugbrain.dev/grug.png" alt="Grug" loading="lazy" />
+    </a>
+    <div class="post-excerpt-text">
+      <a href="https://grugbrain.dev/">The Grug Brained Developer</a>
+      <p>A layman's guide to thinking like the self-aware smol brained.</p>
+    </div>
+  </div>
+</div>
+
+<p>Speaking of complexity… The Grug Brained Developer is here
+to remind us that you don’t need to be smart or clever to be
+effective. In fact, programmers <em>trying</em> to be smart or clever
+are often the ones who get into trouble with complexity.
+Simplify. Say no. Say: complexity <em>very, very</em> bad.</p>]]></content><author><name>jatin-chowdhury</name></author><summary type="html"><![CDATA[Over the past 8 years in academia and industry, I’ve spent the vast majority of my working time writing code. Along the way, I’ve developed some fairly strong opinions about good and bad ways to write code, and I’ve collected a reasonably large supply of educational resources. The purpose of this post is to collect those resources in one organized place.]]></summary></entry><entry><title type="html">On Transforms</title><link href="https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms.html" rel="alternate" type="text/html" title="On Transforms" /><published>2026-09-08T00:00:00+00:00</published><updated>2026-09-22T13:40:42+00:00</updated><id>https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms</id><content type="html" xml:base="https://jatinchowdhury18.github.io/lab-website/2026/09/08/transforms.html"><![CDATA[<p>this is a laplace transform!!</p>
 
 <p>$$
 F(s) = \int_0^{\infty} f(t)\, e^{-st}\, dt
