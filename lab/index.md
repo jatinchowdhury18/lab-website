@@ -20,7 +20,8 @@ a COMSOL machine for performing acoustic simulations.
 
 ### Spatial Audio
 
-We maintain a 26.2 channel studio, capable of rendering 7.1.4 surround.
+We maintain a 26.2 channel studio that can accomodate 7.1.4
+surround sound, and is capable of rendering 4th-order ambisonics.
 
 <img src="../images/studio_b.png" style="width:50%"/>​
 

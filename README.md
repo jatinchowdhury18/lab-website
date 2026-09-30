@@ -9,30 +9,6 @@ Visit **[jatinchowdhury18.github.io/lab-website](https://jatinchowdhury18.github
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
-TODO:
-- Home page:
-  - Logo
-- Research:
-  - Page description
-  - Alex DAFx paper (and other papers?)
-  - Matthew DAFx paper
-  - Other papers? (ask Mark)
-  - "featured" papers
-- Projects
-  - Page description
-  - MFA project link
-  - More projects to add?
-    - Bow stuff?
-- Team
-  - Page description
-  - Former people (merge from Mark)
-  - Kaylyn: picture
-  - Richard: everything
-  - Eugene: everything
-  - Amanda: everything
-- Lab page: everything
-- Contact page: everything
-
 ## Running locally:
 
 Run on localhost
