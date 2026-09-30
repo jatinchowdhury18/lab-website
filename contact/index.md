@@ -18,12 +18,6 @@ collaboration or studying with us in the future!
 %}
 {%
   include button.html
-  type="phone"
-  text="(617) 253-3210"
-  link="+1-617-253-3210"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/MIT+Building+W18/@42.357895,-71.0984224,17z/data=!3m1!4b1!4m6!3m5!1s0x89e37bb4d1323815:0xa7b20397d97e1856!8m2!3d42.3578911!4d-71.0958475!16s%2Fg%2F11l2p57m28"

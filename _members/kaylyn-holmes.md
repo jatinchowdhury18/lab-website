@@ -1,6 +1,6 @@
 ---
 name: Kaylyn Holmes
-image: images/photo.jpg
+image: images/kaylyn/headshot.jepg
 role: phd
 affiliation: Harvard University
 links:

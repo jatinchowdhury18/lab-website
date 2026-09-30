@@ -7,6 +7,14 @@
   tags:
     - research
 
+- title: Bow Measurements
+  subtitle: Measuring bows
+  group: featured
+  image: images/bows.png
+  description: We are working on making measurements of bows and analyzing different bow materials.
+  tags:
+    - research
+
 - title: RTNeural
   subtitle: Real-time neural network inference
   image: images/jatin/rtneural.png

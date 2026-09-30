@@ -21,9 +21,9 @@ These will be some pictures of us doing fun things...
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/mark_alex_dafx26.jpg" %}
+{% include figure.html image="images/dafxcommittee.jpg" class="no-crop" %}
+{% include figure.html image="images/richard_matthew_dafx26.jpg" %}
 
 {% endcapture %}
 
