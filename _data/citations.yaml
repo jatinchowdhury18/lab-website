@@ -1,5 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: Performance-Oriented Wave Digital Circuit Emulation
+  authors:
+  - Jatin Chowdhury
+  - Mark Rau
+  image: images/jatin/wdf_compiler_zen4.png
+  buttons:
+  - type: source
+    link: https://github.com/Chowdhury-DSP/wdf_compiler
+  publisher: DAFx-26
+  date: '2026-09-02'
+  link: https://dafx26.mit.edu/assets/papers/DAFx26_paper_23.pdf
+  jatin-chowdhury: true
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2026.yaml
+- title: Modal Structures of Plate Boundaries and Klein Bottle Reverberation
+  authors:
+  - Jin Woo Lee
+  - Mark Rau
+  image: images/jin/klein_bottle.jpeg
+  buttons:
+  - type: website
+    link: https://kleinreverb.github.io/
+  publisher: DAFx-26
+  date: '2026-09-02'
+  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_11.pdf
+  jin-woo-lee: true
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2026.yaml
+- title: Ambisonic Decoder Equalization in Reverberant Environments via Closed-Hull
+    Crosstalk Inversion
+  authors:
+  - Alex Tung
+  - Mark Rau
+  image: images/alex/alex_dafx26.png
+  publisher: DAFx-26
+  date: '2026-09-02'
+  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_15.pdf
+  alex-tung: true
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2026.yaml
+- title: Evaluation of a Higher Order Ambisonic Renderer with Reverberation Compensation
+    via Crosstalk Inversion
+  authors:
+  - Alex Tung
+  - Mark Rau
+  image: images/alex/alex_avar26.png
+  publisher: AES 2026 AVARIG
+  date: '2026-06-30'
+  link: https://aes.org/publications/elibrary-page/?id=23378
+  alex-tung: true
+  mark-rau: true
+  plugin: sources.py
+  file: sources-2026.yaml
+- title: Compiling Differentiable Audio Graphs to Real-Time DSP
+  authors:
+  - Facundo Franchino
+  - Sebastian J. Schlecht
+  publisher: DAFx 2026 (Demonstrations Track)
+  date: '2026-09-03'
+  link: https://arxiv.org/abs/2606.21277
+  image: images/facundo/adac_pipeline.png
+  buttons:
+  - type: source
+    link: https://github.com/cucuwritescode/adac
+  facundo-franchino: true
+  plugin: sources.py
+  file: sources-2026.yaml
+- title: Structured Pruning of Feedback Delay Networks
+  authors:
+  - Facundo Franchino
+  publisher: University of York
+  date: '2026-04-28'
+  link: https://cucuwritescode.github.io/demo-day/
+  image: images/facundo/fdn_diagram.svg
+  facundo-franchino: true
+  plugin: sources.py
+  file: sources-2026.yaml
 - title: Vibration and acoustic measurements of guitars with applications to luthiery,
     synthesis, and audio effects
   authors:
@@ -296,83 +376,3 @@
   jatin-chowdhury: true
   plugin: sources.py
   file: sources-2025_and_before.yaml
-- title: Performance-Oriented Wave Digital Circuit Emulation
-  authors:
-  - Jatin Chowdhury
-  - Mark Rau
-  image: images/jatin/wdf_compiler_zen4.png
-  buttons:
-  - type: source
-    link: https://github.com/Chowdhury-DSP/wdf_compiler
-  publisher: DAFx-26
-  date: '2026-09-02'
-  link: https://dafx26.mit.edu/assets/papers/DAFx26_paper_23.pdf
-  jatin-chowdhury: true
-  mark-rau: true
-  plugin: sources.py
-  file: sources-2026.yaml
-- title: Modal Structures of Plate Boundaries and Klein Bottle Reverberation
-  authors:
-  - Jin Woo Lee
-  - Mark Rau
-  image: images/jin/klein_bottle.jpeg
-  buttons:
-  - type: website
-    link: https://kleinreverb.github.io/
-  publisher: DAFx-26
-  date: '2026-09-02'
-  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_11.pdf
-  jin-woo-lee: true
-  mark-rau: true
-  plugin: sources.py
-  file: sources-2026.yaml
-- title: Ambisonic Decoder Equalization in Reverberant Environments via Closed-Hull
-    Crosstalk Inversion
-  authors:
-  - Alex Tung
-  - Mark Rau
-  image: images/alex/alex_dafx26.png
-  publisher: DAFx-26
-  date: '2026-09-02'
-  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_15.pdf
-  alex-tung: true
-  mark-rau: true
-  plugin: sources.py
-  file: sources-2026.yaml
-- title: Evaluation of a Higher Order Ambisonic Renderer with Reverberation Compensation
-    via Crosstalk Inversion
-  authors:
-  - Alex Tung
-  - Mark Rau
-  image: images/alex/alex_avar26.png
-  publisher: AES 2026 AVARIG
-  date: '2026-06-30'
-  link: https://aes.org/publications/elibrary-page/?id=23378
-  alex-tung: true
-  mark-rau: true
-  plugin: sources.py
-  file: sources-2026.yaml
-- title: Compiling Differentiable Audio Graphs to Real-Time DSP
-  authors:
-  - Facundo Franchino
-  - Sebastian J. Schlecht
-  publisher: DAFx 2026 (Demonstrations Track)
-  date: '2026-09-03'
-  link: https://arxiv.org/abs/2606.21277
-  image: images/facundo/adac_pipeline.png
-  buttons:
-  - type: source
-    link: https://github.com/cucuwritescode/adac
-  facundo-franchino: true
-  plugin: sources.py
-  file: sources-2026.yaml
-- title: Structured Pruning of Feedback Delay Networks
-  authors:
-  - Facundo Franchino
-  publisher: University of York
-  date: '2026-04-28'
-  link: https://cucuwritescode.github.io/demo-day/
-  image: images/facundo/fdn_diagram.svg
-  facundo-franchino: true
-  plugin: sources.py
-  file: sources-2026.yaml
