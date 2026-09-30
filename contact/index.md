@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please get in touch with us if you are interested in research
+collaboration or studying with us in the future!
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="mrau@mit.edu"
+  link="mrau@mit.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(617) 253-3210"
+  link="+1-617-253-3210"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/MIT+Building+W18/@42.357895,-71.0984224,17z/data=!3m1!4b1!4m6!3m5!1s0x89e37bb4d1323815:0xa7b20397d97e1856!8m2!3d42.3578911!4d-71.0958475!16s%2Fg%2F11l2p57m28"
 %}
 
 {% include section.html %}
@@ -36,8 +35,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/W18.jpg"
 %}
 
 {% endcapture %}
@@ -46,8 +44,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/studio_b_2.png"
 %}
 
 {% endcapture %}
@@ -56,7 +53,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
+<!--{% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
@@ -72,6 +69,6 @@ sed do eiusmod tempor
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+{% endcapture %}-->
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<!--{% include cols.html col1=col1 col2=col2 col3=col3 %}-->

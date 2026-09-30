@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-These are some of the projects that we have been working on...
+We are currently working on projects involving the measurement
+and re-creation of historical instruments, real-time circuit
+emulation and artificial reverberation, and more!
 
 {% include tags.html tags="research, software" %}
 

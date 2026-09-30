@@ -7,7 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Here's where we'll put a description of our research...
+Our lab's research interests include:
+- Musical and physical acoustics
+- Spatial audio
+- Audio signal processing
+- Instrument and effect design
 
 {% include section.html %}
 

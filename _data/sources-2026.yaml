@@ -12,6 +12,42 @@
   jatin-chowdhury: true
   mark-rau: true
 
+- title: Modal Structures of Plate Boundaries and Klein Bottle Reverberation
+  authors:
+    - Jin Woo Lee
+    - Mark Rau
+  image: images/jin/klein_bottle.jpeg
+  buttons:
+    - type: website
+      link: https://kleinreverb.github.io/
+  publisher: DAFx-26
+  date: 2026-09-02
+  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_11.pdf
+  jin-woo-lee: true
+  mark-rau: true
+
+- title: Ambisonic Decoder Equalization in Reverberant Environments via Closed-Hull Crosstalk Inversion
+  authors:
+    - Alex Tung
+    - Mark Rau
+  image: images/alex/alex_dafx26.png
+  publisher: DAFx-26
+  date: 2026-09-02
+  link: https://dafx.de/paper-archive/2026/papers/DAFx26_paper_15.pdf
+  alex-tung: true
+  mark-rau: true
+
+- title: Evaluation of a Higher Order Ambisonic Renderer with Reverberation Compensation via Crosstalk Inversion
+  authors:
+    - Alex Tung
+    - Mark Rau
+  image: images/alex/alex_avar26.png
+  publisher: AES 2026 AVARIG
+  date: 2026-06-30
+  link: https://aes.org/publications/elibrary-page/?id=23378
+  alex-tung: true
+  mark-rau: true
+
 # Facundo (2026)
 - title: Compiling Differentiable Audio Graphs to Real-Time DSP
   authors:
